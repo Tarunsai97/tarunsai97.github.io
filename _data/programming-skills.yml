@@ -2,12 +2,12 @@
   percentage: 80
   color: success
 
-- name: C++
+- name: javascript
   percentage: 50
   color: info
 
-- name: C
-  percentage: 60
+- name: React
+  percentage: 50
   color: info
   
 - name: HTML
@@ -15,16 +15,25 @@
   color: info
 
 - name: SQL
-  percentage: 60
-  color: info
+  percentage: 40
+  color: danger
 
 - name: R
   percentage: 40
   color: danger
 
-- name: Quantum Computing 
-  percentage: 30
+- name: Flask
+  percentage: 80
+  color: success
+
+  name: Django
+  percentage: 50
+  color: info
+
+  name: React native (Cli)
+  percentage: 50
   color: danger
+  
 
 
 
