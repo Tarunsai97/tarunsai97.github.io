@@ -1,10 +1,10 @@
 ### Site Settings ###
-title               : Uday Girish Maradana
+title               : Tarun Sai Gundepalli
 description         : >- 
                       I turn tea :tea: into code,     
-                      Want to discuss ?? Always up for Robotics, Artificial Intelligence, Quantum Physics, Neuroscience & Life!!! 
+                      Want to discuss ?
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : udaygirish/udaygirish.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : tarunsai97/tarunsai97.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : udaygirish/portfolYOU
 
 
@@ -28,27 +28,27 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Uday Girish Maradana
-  image             : ./assets/uday.png
+  name              : TarunSaiGundepalli
+  image             : ./assets/
 # behance           : your_username
 # dribbble          : your_username
-  email             : einsteingirish@gmail.com  
+  email             : tarunsai97@gmail.com
 # facebook          : your_username
-  github            : udaygirish
+  github            : tarunsai97
 # gitlab            : your_username
-  instagram         : udaygirish
-  kaggle            : udaygirish
-  linkedin          : udaygirish-maradana
-  medium            : udaygirish
+  instagram         : tarunsai_18
+#  kaggle            : udaygirish
+  linkedin          : tarun-sai-7ab60b187
+#  medium            : 
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : UdayGirishM
+#  twitter           : UdayGirishM
 # vimeo             : your_username
 # youtube           : your_channel_name
-  quora             : Uday-Girish-Maradana
+#  quora             : Uday-Girish
   resume            : Uday_Girish_CV.pdf
   
 
@@ -64,7 +64,7 @@ collections:
 
 ### Disqus ###                        
 disqus:        # Your website Shortname on disqus
-  shortname: https-udaygirish-github-io  
+  shortname: https-tarunsai97-github-io  
 
 ### Analytics ###
 analytics:
