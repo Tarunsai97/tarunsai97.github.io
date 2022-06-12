@@ -1,8 +1,10 @@
 ### Site Settings ###
 title               : Tarun Sai Gundepalli
 description         : >- 
-                      I turn idea :blub: into code,     
+
+                      I turn ideas into code,     
                       Want to discuss ?
+                      
                       Machine Learning and Deep Learnig enthusiast
                       Future Data Scientist.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
