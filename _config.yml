@@ -70,7 +70,7 @@ disqus:        # Your website Shortname on disqus
 analytics:
   enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: G-QP8ZT75XE3 
+    tracking_id: 319096961 # New track id 
 
 
 
