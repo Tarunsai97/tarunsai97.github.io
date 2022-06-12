@@ -25,6 +25,7 @@ nav_exclude:                                            # The following paths ar
   - pages/projects.html
   - pages/publications.md
   - pages/certifications.md
+  - pages/outreach_talks.md
 
   #  - pages/contact.html
 
@@ -34,7 +35,7 @@ author:
   image             : ./assets/tarun.png
 # behance           : your_username
 # dribbble          : your_username
-  email             : tarunsai97@gmail.com
+  email             : saig.tarun@gmail.com
 # facebook          : your_username
   github            : tarunsai97
 # gitlab            : your_username
