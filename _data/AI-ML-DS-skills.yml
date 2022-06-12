@@ -23,8 +23,6 @@
   percentage: 85
   color: success
   
-  color: success
-
 - name: NLP
   percentage: 60
   color: info
