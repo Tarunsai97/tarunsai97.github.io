@@ -1,7 +1,3 @@
-- name: Research
-  percentage: 85
-  color: success
-  
 - name: MS Office
   percentage: 90
   color: success

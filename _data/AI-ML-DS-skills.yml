@@ -1,5 +1,5 @@
 - name: Tensorflow
-  percentage: 70
+  percentage: 60
   color: info
 
 - name: Pytorch
@@ -15,11 +15,14 @@
   color: success
 
 - name: Deep Learning
-  percentage: 80
+  percentage: 60
   color: success
 
 - name: Computer Vision
-  percentage: 80
+  percentage: 60- name: Research
+  percentage: 85
+  color: success
+  
   color: success
 
 - name: NLP
@@ -37,10 +40,6 @@
 - name:  Data Visualisations
   percentage: 75
   color: info
-
-- name: CUDA
-  percentage: 30
-  color: danger
 
 - name: TFLite,TFJS
   percentage: 80
