@@ -70,7 +70,8 @@ disqus:        # Your website Shortname on disqus
 analytics:
   enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: UA-175164060-1
+    tracking_id: G-QP8ZT75XE3 
+
 
 
 ### Defaults for collections ###
