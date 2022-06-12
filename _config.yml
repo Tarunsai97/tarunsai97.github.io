@@ -23,6 +23,8 @@ nav_exclude:                                            # The following paths ar
   - pages/status.md
   - pages/contact.md
   - pages/projects.html
+  - pages/publications.md
+  - pages/certifications.md
 
   #  - pages/contact.html
 
