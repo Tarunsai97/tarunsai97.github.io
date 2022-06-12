@@ -3,16 +3,12 @@
   color: success
 
 - name: GCP
-  percentage: 90
-  color: success
-
-- name: AWS
-  percentage: 80
-  color: success
-
-- name: Network Security
   percentage: 50
   color: info
+
+- name: AWS
+  percentage: 60
+  color: success
 
 - name: Github
   percentage: 80
